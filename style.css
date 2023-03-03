@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+}
+.btn{
+    width: fit-content;
+}
